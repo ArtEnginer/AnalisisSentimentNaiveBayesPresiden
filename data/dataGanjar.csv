@@ -1,0 +1,668 @@
+text,sentiment
+"['', '', 'beruntung', '', 'lapor', 'langsung', 'ditanggapi', 'gubernur', 'amp', 'dpu', 'propinsi']",netral
+"['', 'anakkolong', 'mbaksri', '', 'trending', 'anak', 'pepo', '', '', 'hancur', 'hancur', 'hatiku', 'bang', 'brewok', 'pengkhianat', 'cin', '', '']",netral
+"['putra', 'wayang', 'ganjar', 'pranowo', 'siti', 'atikoh', 'ganjar', 'pranowo', 'pandangan', 'alam', 'ganjar', 'terkait', 'politik']",netral
+"['', '', 'percaya', 'hasil', 'dri', 'lambaga', 'survei']",netral
+"['kemaren', 'next', '', '', 'bercandanya', 'tuhan', 'terkadang', 'selucu', 'bersihkan', 'jejak', 'bijitil', 'jerrrrr']",netral
+"['', 'solid', 'nazaruddin', 'kabor', '', 'negeri', 'tertangkap', 'harun', 'masiku', 'ngilang', 'skrg', 'keturunan', 'demit', '', 'ngilang', '']",positif
+"['', '', 'dikasih', 'wjengan', '', 'iriana', 'suami', '', '', 'menggantikan', 'suami', '', '', 'presidenaamiin']",netral
+"['', 'pol', 'pol', 'pol', 'bole', '', 'set']",netral
+"['', 'chotimah', 'nakula', 'anakkolong', 'lasan', 'ogi', 'anis', 'sampah']",netral
+"['', 'daerah', 'udah', 'cuman', '', 'koar', 'kaya', 'ganjar']",netral
+"['selamat', 'pagi', 'pendukung', 'ganjar', 'pranowo', 'ikutan', 'ribut', 'cawapres', 'tetangga', 'sebelah', '', 'fokus', '', 'ganjar']",netral
+"['', 'chotimah', 'nakula', 'anakkolong', 'lasan', 'ogi', 'matamu', 'sempal']",netral
+"['', 'prihatin']",netral
+"['', 'warga', 'miskin', 'komoditas', 'pemilu']",netral
+"['', 'udien', 'ganjar', 'melaju', 'rakyat', 'meneruskan', 'pekerjaan', 'presiden', 'jokowi']",netral
+"['ppp', 'mengajak', 'partai', 'demokrat', 'pks', 'mendukung', 'bacapres', 'ganjar', 'pranowo', '', 'pemilu', '']",netral
+"['poirot', 'piye', 'penak', 'ora', 'jogingnya', '', 'area', 'wadas']",netral
+"['', 'ganjar', 'melaju', 'rakyat', 'melanjutkan', 'pekerjaan', 'presiden', 'jokowi', '', '', 'nkri', 'harga', 'mati']",netral
+"['', 'gitu', 'dongad', 'prestasi', '', 'anak', 'bangsamasa', 'pro', 'aseng', 'pro', 'anak', 'bangsa', 'dongbiarin', 'pencitraan', '', 'sing', 'anak', 'bangsa', 'majubosen', '', 'sepelein', 'mulu', 'opung', 'luhut']",negatif
+"['', 'ngibul', 'esemka']",netral
+"['', '', 'nanyak']",netral
+"['rumusnya', '', 'lembaga', 'survey', '', 'teruji', 'terbukti', 'surveynya', '', 'pilpres']",netral
+"['', 'kau', 'bikin', 'pernyataan', 'mengadili', 'prabowo', 'presiden']",netral
+"['krr', 'mendadak', 'mengandung', 'bawang']",netral
+"['chotimah', 'iya', '', 'capaian', 'survey', '', 'menjajaki', 'akademisi', '', 'kampus']",netral
+"['rekam', 'jejak', 'ganjar', 'anakanak', 'keluarga', '', 'akses', 'pendidikan', '', 'terbaik']",netral
+"['', 'ganjar', 'pranowo', 'manteb']",netral
+"['', 'masuk', 'akal', '', 'penutup', 'podcast', 'kemarin', 'tantanganin', 'langsung', '', '', 'nggak', 'direspon', 'pendengungpendengung', '', 'berisik']",netral
+"['', 'zakat', 'kader']",netral
+"['komunitas', 'ojek', 'online', 'optimis', 'ganjar', 'pranowo', 'next', 'presiden', 'salampramukakakganjar', 'ulamasufikejateng', 'jatenghappyending', 'ganjarayahidaman', 'rakyatdukungganjar', 'cak', 'imin', '', 'superbluemoon', '', '', 'sugeng', 'rahayu', '', 'zoro', '', 'surya', 'paloh', '', 'koalisi', 'perubahan']",netral
+"['ima', '', 'bunda']",netral
+"['warga', 'gereja', 'kota', 'semarang']",netral
+"['gub', 'jateng', 'memaparkan', '', 'strategi', 'utk', 'wujudkan', 'indonesia', 'emas', '', '', 'hadapan', 'mahasiswa', 'universitas', 'pancasila', 'jakarta', '', '', 'pembangunan', 'sdm', '', 'infrastruktur', 'dukung', 'inovasi', '', 'ketangguhan', 'kesehatan', 'mental']",netral
+"['ganjar', 'berbicara', 'kolaborasi', '', 'industri', 'kreatif', 'salampramukakakganjar', 'ulamasufikejateng', 'jatenghappyending', 'ganjarayahidaman', 'rakyatdukungganjar', 'cak', 'imin', '', 'superbluemoon', '', '', 'sugeng', 'rahayu', '', 'zoro', '', 'surya', 'paloh', '', 'koalisi', 'perubahan']",netral
+"['presiden', 'joko', 'widodo', 'mengundang', 'gubernur', 'jawa', 'calon', 'presiden', 'ganjar', 'pranowo', '', 'istana', 'kepresidenan', 'jakarta']",netral
+"['chotimah', 'paspampres', 'special', 'edition', 'era', 'jokowibisa', 'den', 'ganjar', '', 'bokpgitu', '', 'nul']",positif
+"['', 'ganjar', 'pranowo', 'merakyat', 'ganjarpilihanrakyat']",netral
+"['', 'bajunya', 'pink']",netral
+"['', '', 'atikoh', 'lak', 'memfavoritkan', 'campursari', '', '', 'iriana', '', 'ndak', 'mbak', 'metal', 'doooong']",netral
+"['', 'retnawati', 'purworejo', 'mangga', 'mbenjang', 'setu', 'ngahad', 'gumregahsembir']",netral
+"['', 'terima', 'kasih', 'karya', 'membangun', 'jateng', 'dasa', 'warsa', 'mendukungmu', '', '', '']",netral
+"['', 'fals', 'melek']",netral
+"['', 'setuju', 'anis', 'cak', 'imin']",netral
+"['cawapres', 'ganjar', 'pranowo', 'ditentukan']",netral
+"['chotimah', 'tag', 'hahahaha', 'framing', 'doang', 'aslinya', 'ancur', 'jateng']",netral
+"['', 'dukung', 'uda', 'ganjar', 'pilpres', '', 'ganjarpranowo', 'ganjaruntuksemua']",netral
+"['ganjar', 'pranowo', 'didukung', 'kekuatan', 'oligarki', 'didukung', 'rakyat', 'ganjarpilihanrakyat']",netral
+"['ganjar', 'pranowo', 'maju', 'rakyat', 'ganjarpilihanrakyat']",netral
+"['ganjar', 'pranowo', 'merakyat', 'ganjarpilihanrakyat']",netral
+"['ppp', 'ajak', 'demokratpks', 'masuk', 'koalisi', 'ganjar', 'pranowo', 'mencuatnya', 'isu', 'duet', 'anies', 'baswedancak', 'imin']",netral
+"['chotimah', 'dinegara', 'paspanpresnya', 'bertugas', 'keselamatan', 'kepala', 'negara', 'paspanpres', 'kuli', 'angkut', 'kantong', 'sembako', 'silap']",netral
+"['chotimah', 'ganjar', '']",netral
+"['gubernur', 'jateng', 'bangun', '', 'sekolah', 'asrama', 'gratis', 'utk', 'meningkatkan', 'sdm', 'pendidikan', 'angka', 'kemiskinan', 'diturunkan', 'ganjar', 'pranowo', 'bnr', 'peduli', '', 'generasi', 'muda', '', 'sdm', '', 'mumpuni']",positif
+"['', 'yok', 'yok', '', 'menang', 'ganjarpranowo', 'ganjaruntuksemua']",netral
+"['chotimah', 'sembako', '', 'lempar', 'lempar', 'kaos']",netral
+"['', 'proyek', 'mobil', 'esemka', 'jilid', '', 'mengantarkan', 'belio', '', 'sekjen', 'pbb']",netral
+"['didukung', 'kelompok', 'iblis', 'komunis', 'pki', 'china', 'selundupan', 'perjuangan', 'megawati', 'cucu', 'motor', 'komunis', 'ri', 'soekarno', 'projo', 'komunis', 'pki', 'berani', 'seruduk', 'oposisi']",netral
+"['smkn', 'jateng', 'ganjar', 'pranowo', 'mewujudkan', 'mimpi']",netral
+"['', 'nama', 'internal', 'perjuangan', '', 'denger', '', 'mulutnya', 'mendukung', 'langkah', 'budiman', '', '', 'senayan']",netral
+"['', 'mantap', 'bismillah', '', 'menang', 'ganjarpranowo', 'ganjaruntuksemua']",netral
+"['momen', 'kebersamaan', 'pranowo', 'keluarga', 'kecilnya', 'potret', 'keluarga', 'bahagia', 'sejahtera', 'harmonis', 'keluarga', 'idaman', '']",netral
+"['', 'imin', 'pkb', 'terserah', 'kau']",netral
+"['jumat', 'mari', 'ceriabahagiakan', 'indonesia', '', 'sholawat', 'semoga', '', 'gus', 'pemimpin', 'bangsa', 'warga', 'bangsa', 'indonesia', 'senantiasa', 'sehat', 'bahagia', 'selamat']",netral
+"['', 'anaknya', '', '', 'feel', 'her', 'its', 'okay', 'sulit', 'hamil', 'anak', '', 'sarah', 'aja', 'hamil', 'usia', '', 'thn', 'amp', '', 'anak', 'lihat', 'turunannya', 'sekrg', 'spt', 'bintang', '', 'langit', 'amp', 'pasir', '', 'pantai']",positif
+"['chotimah', 'esemka', 'esemka', 'lagilagi', 'esemka']",netral
+"['', 'chotimah']",netral
+"['', 'ganjar', 'pranowo', 'rakyat', 'gentar', '', 'kroyok', 'elit', 'partai', 'politik']",netral
+"['', 'met', '', 'bro']",netral
+"['gubernur', 'jateng', 'pranowo', 'lepas', '', 'mahasiswa', '', 'magang', '', 'ceko']",netral
+"['', 'matur', 'nuwun', 'nggih']",netral
+"['', 'demokrat', 'partai', 'partai', 'pemenang', 'pemilu', '', 'dikuasai', 'partai', 'nasdem', 'ayoooo', 'arah', 'mumpung', 'pdip', 'ganjar', 'pranowo', 'cawapres', 'salah', 'satunya', 'ketum', 'demokrat', 'menang', 'lawan', 'kawan', 'seperjuangan', 'odippdemokrat']",netral
+"['', 'iyaa', 'dongkan', 'dananya', 'dipake', 'renov', 'rumah', 'kader']",netral
+"['', 'pranowo', 'pokok', '', '']",netral
+"['ganjar', 'pranowo', 'pemimpin', 'penuh', 'toleransi', 'beragama']",netral
+"['', 'ganjar', 'cocok', 'menteri', 'pendidikan', 'bagus', 'pendidikan']",netral
+"['chotimah', '', 'petugas', 'partai', 'prilakunya', 'buruk', '', 'chotimah', '', '', 'jelasjelas', 'petugas', 'partai', 'percaya']",netral
+"['pkb', 'final', 'menerima', 'cawapresnya', 'kiyai', 'sepuh', 'bergerak']",netral
+"['', '', 'naaahini', 'cucokkk', 'buka', 'perusahan', 'flm', 'bokep']",netral
+"['ganjar', 'pranowo', 'hadiri', 'silahturahmi', 'kumpulan', 'gereja', 'kota', 'semarang']",netral
+"['ganjar', 'pranowo', '', 'sdm', 'mesti', 'genjot', 'memelihara', 'mengembangkan', 'infrastruktur', '', 'orientasi', 'teknologi', 'ramah', 'lingkungan']",netral
+"['wan', 'ngibul', 'dipercaya', 'gabung', 'aja']",netral
+"['calon', 'presiden', 'nih', 'guys', '', 'ganjarpranowo', 'jokowidodo', 'ganjarpranowo', 'indonesiamaju']",netral
+"['chotimah', 'bikin', 'smk', 'bangga', 'banget']",netral
+"['anakkolong', 'gak', 'berubah']",netral
+"['', 'pranowo', 'bangettt']",netral
+"['ganjar', 'pranowo', 'berhasil', 'ciptakan', 'kebersamaan', 'bangun', '', 'jateng']",netral
+"['', 'keren']",netral
+"['rakernas', 'kadin', '', 'semarang', 'gubernur', 'jateng', 'pranowo', 'menyamapaikan', 'pemprov', 'jateng', 'sdm', '', 'terampil', 'utk', 'membangun', 'infrastruktur', 'hijau', 'indonesia', '', 'kehadiran', 'sekolah', 'vokasi', '', 'jateng', 'sahabatganjar', 'ganjarpranowo', 'ganjaruntuksemua']",netral
+"['', 'utk', 'masyarakat', 'kinerja', 'pimpinane', 'piye']",netral
+"['menjelang', 'jabatan', 'gubernur']",netral
+"['jargon', 'tuanku', '', 'rakyat', 'sekedar', 'katakata']",netral
+"['', 'lestari', 'sdh', 'buktikan', '']",netral
+"['', 'faktanya']",netral
+"['', 'mantap', 'kenceng', 'dukung', 'berjuang', 'utk', 'kemenangan', 'ganjar', 'pranowo', 'sbg', 'presiden']",netral
+"['', '', 'naaahini', 'cucokkkkk', 'pas', 'banget']",netral
+"['', 'asli', 'keren']",netral
+"['', 'perjuangan', 'kaosnya', 'keren', 'cocok', 'situasi', 'krn', 'penculikan', 'kejahatan', 'kejahatan', 'gak', 'terulang', 'anak', 'jaman', 'now', 'tau', 'cocok', 'bingit']",netral
+"['chotimah', 'smk', 'sekolah']",netral
+"['pinter', 'ngaji', 'bertaubat', 'nonton', 'video', 'porno', 'pertimbangkan', 'pilihan']",netral
+"['bag', '']",netral
+"['', 'sekolah', 'gratis', 'berjalan', 'dimana']",positif
+"['', 'kawal', 'sampe', '']",netral
+"['istriku', 'anaku', 'kampanye', 'pdi', 'perjuangan', 'ganjar', 'pranowo']",netral
+"['indi', 'gubernur', 'jateng']",netral
+"['', 'ijazah', 'palsu', '', 'percaya']",netral
+"['', 'kalo', 'jateng']",netral
+"['', 'kualitas', 'menanggapi', 'keluhan', 'warganya', 'diup', 'ujungnya', 'tanggung', 'bupati', 'dll']",netral
+"['', 'otak', 'mesum', 'bani', 'cebong', 'otak', 'sggaris', 'wkwkw', 'pantes', '', '', 'dukung', 'ganjar', 'isi', 'otak', '', '', 'dukung', 'pendukung', 'wkwkwkw']",netral
+"['chotimah', 'kangkung', 'aja', '']",netral
+"['', 'halah', 'smp', 'ambil', 'rapot', 'bayar', 'pakai', 'uang', 'alasan', 'nya', 'infaq', 'tolong', '', 'smp', '', 'larangan', 'brebes']",netral
+"['', 'dimana', 'mas', 'kampung', 'njenengan']",netral
+"['', 'tolong', 'pahami', 'smk', 'didirikan', 'anak', 'gratis', 'disalurkan']",positif
+"['', 'insha', 'allah', 'kemenangan', 'pilpres', '', 'nampak', 'maju', '', 'majukan', 'indonesia', 'raya', 'biar', 'anak', '', 'bangga', 'negaranya', '', 'merdeka', 'merdeka', 'merdeka', 'urraaa', 'urraaa', 'urraaa']",netral
+"['', 'rakyat']",netral
+"['hendratmo', 'chotimah', 'anakkolong', 'presiden', 'naaaah']",netral
+"['', 'ditunggu', '', 'datangannya', '', 'batam', 'ganjar']",netral
+"['', 'perjuangan', 'perindo', 'hanura', 'percayalah']",netral
+"['', 'perjuangan', 'partai', '', 'tinggal', 'kader', 'muda', '', 'mumpuni', 'tsmara']",netral
+"['poirot', 'gubernur', 'bokep', 'gmn', 'cerita', 'nih']",netral
+"['', 'pencitraan', 'lulusan', 'berhasil', 'kerja', '', 'jepang', 'usaha', 'lulusannya', '', 'rumah', 'hasilnya', 'tergantung', 'kualitas', 'siswa']",netral
+"['', 'kodamdamali', 'purworejo', 'purworejo', '', 'pwrj', 'pwrj', 'retnawati', 'besok']",netral
+"['', 'pinter', 'mainnya', '', 'prabowo', 'gandeng']",netral
+"['chotimah', 'ngapain', 'panas', '', '', 'mobil', 'esemka', 'beneran', 'ribuan', 'unit', 'gak']",netral
+"['', 'bismillag']",netral
+"['', '', 'ganjar']",netral
+"['', 'maju']",netral
+"['silaturrahim', '', 'majelis', 'talim', '', 'thariq']",netral
+"['', 'duh', 'pemimpin', 'andalan', 'ganjarpranowo', 'ganjaruntuksemua']",netral
+"['', 'kadrun', 'kampret', 'gaakan', 'ngakui', '', 'mengakui', 'kinerja', '', '', 'merasakan', 'org', '', 'nonton', '', 'bisanya', 'nyinyirin']",netral
+"['', '', 'ogi', 'anakkolong', 'chotimah', 'wadas', 'proyeknya', 'jateng', 'proyek', 'nasional']",netral
+"['jelang', 'purna', 'tugas']",netral
+"['', 'tuh', 'siswa', 'siswanya']",netral
+"['lestari', '', 'menang', 'memangnya', 'menciptakan', 'stabilitas', 'politik', '', 'parlemen', 'dgn', '', '', 'dgn', 'mulus', 'melanjutkan', 'tugas', 'jokowimau', 'gak', 'merangkul', 'orang', '', 'dikatain', 'tua']",netral
+"['presiden', 'jokowi', 'meninjau', 'sekolah', 'gratis', '', 'diprakarsai', 'gubernur', 'jateng', '', 'presiden', 'memuji', 'sekolah', '', 'dikhususkan', 'anak', '', 'tdk', 'tsb', 'krn', 'sarana', 'amp', 'prasarananya', 'lengkap', 'presiden', 'didirikan', '', 'provinsi', 'grup', 'barca', 'tidur', 'iphone', '', 'agustus']",positif
+"['', 'imin', 'pkb', 'disandingkan', '', '', 'ahy', '', '', '', 'harapan', 'pupus', 'bagaiman', 'fatamorgana']",positif
+"['', 'penerimaan', 'siswa', 'tingkat', 'sma', 'amburadul']",netral
+"['kasihan', '', 'persimpangan', 'jalan', '', 'geser', 'dukung', 'bang', 'partai', 'geloranya', '', 'dukung']",netral
+"['elektabilitas', 'capres', 'moncer', 'fakta', 'bhw', 'masyarakat', 'sosok', 'ganjar', '', '', 'rakyatnya', 'bismillah', 'perjuangan', 'utk', 'orang', 'utk', 'hasil', '', 'semangat']",netral
+"['', 'id', 'perjuangan', 'ulasan', 'sederhana', '', '', 'mantap']",netral
+"['presiden', 'aja', 'kagum']",netral
+"['jilid', 'semoga', 'alloh', 'swt', 'meridhoi', '', 'terpilih', 'presiden', 'amp', 'wakil', 'presiden', 'indonesia', 'periode', '', 'indonesia', 'dipimpin', '', 'muda']",netral
+"['tetangga', 'sebalah', 'ribut', 'cawapres', '', 'nyantai', 'aja', '', '', 'ganjar', 'pranowo', 'jgn', '', '']",netral
+"['', 'dirancang', 'kadis', '', 'konsen', 'dgn', 'team', '', 'sokit', '', 'pendidikan', 'ditendang', 'digantikan', 'dgn', 'kadis', 'team', 'catutan', '', 'tinggal', 'jalankan']",netral
+"['', 'telat', 'luaku', 'salah', 'alumninya', 'nih', '', 'baca', 'biar', '', 'kudet']",netral
+"['', 'ganjar', 'pranowo', 'pemimpin', 'penuh', 'toleransi', 'presiden', '']",netral
+"['', '', '', 'maaf', 'yajgn', 'tolol', 'teriak', 'tolol', 'memalukan', '', 'pilih', 'aja', '', 'jgn', '', 'keluarin', 'tolol', 'capres', 'jadianda', 'kasar', '', 'kasar', 'tolong', 'belajar', '', '', '', 'akhlak', '', 'belajar', 'krn', 'udh', 'tabiat', '', 'lahir']",netral
+"['toleransi', 'ganjar', 'pranowo', 'menggambarkan', 'kebhinekaan']",netral
+"['rakyat', 'ganjar', 'pranowo']",netral
+"['ganjar', 'pranowo', '', 'jabatan', 'mandat', 'rakyat']",netral
+"['ganjar', 'pranowo', 'didukung', 'rakyat']",netral
+"['', 'kwkwkwk', 'menaikan', 'elaktabilitas', 'kabar', 'mobil', 'smk']",netral
+"['ganjar', 'pranowo', 'pemimpin', 'idaman', 'rakyat', 'indonesia', 'ganjarpranowo', 'ganjarcapres', 'ganjarpresiden', 'ganjarmenangtotal', 'ganjarpilihanrakyat', 'presiden', 'ganjarpresiden', 'pilpres', 'pemilu', 'lapakganjar']",netral
+"['', 'ganjar', 'pranowo', 'rakyat', 'gentar', 'melawan', 'oligarki', 'pro', 'asing']",netral
+"['ganjar', 'pranowo', 'hadiri', 'silaturahmi', 'perkumpulan', 'gereja', 'kota', 'semarang', 'ganjarpranowo', 'ganjarcapres', 'ganjarpresiden', 'ganjarmenangtotal', 'ganjarpilihanrakyat', 'presiden', 'ganjarpresiden', 'pilpres', 'pemilu', 'lapakganjar']",netral
+"['ganjar', 'pranowo', 'pemimpin', 'menjunjung', 'nilai', 'kebhinnekaan', 'ganjarpranowo', 'ganjarcapres', 'ganjarpresiden', 'ganjarmenangtotal', 'ganjarpilihanrakyat', 'presiden', 'ganjarpresiden', 'pilpres', 'pemilu', 'lapakganjar']",netral
+"['', 'rekam', 'jejak', 'prestasi', 'amp', 'visi', 'misi', 'berani', 'menerima', 'tantangan', 'debat', 'bem', '']",netral
+"['ganjar', 'pranowo', 'calon', 'presiden', '', 'pilihan', 'rakyat', 'indonesia', 'ganjarpranowo', 'ganjarcapres', 'ganjarpresiden', 'ganjarmenangtotal', 'ganjarpilihanrakyat', 'presiden', 'ganjarpresiden', 'pilpres', 'pemilu', 'lapakganjar']",netral
+"['', '', 'phm', 'pemilu', '', 'manapun', 'pemilu', 'partai', 'tong', '', 'diajukan', '', 'caleg']",netral
+"['', 'denpasang', 'foto', 'jenegan', '', 'kaos', 'tim', '', 'keren']",netral
+[''],netral
+"['', '', '', '', 'ksh', 'tau', '', 'prestasi', 'ganjar', '', 'dgn', 'syarat', '', 'jgn', 'ksh', 'tau', 'abudapalagi', '', 'jgn', 'panas']",netral
+"['lopez', 'anakkolong', 'sih', 'sbnrnya', 'org', 'bikin', 'partai', 'gak', 'lolos', 'parlemen', 'aja']",netral
+"['salah', 'kader', 'terbaik', 'perjuangan', 'melanjutkan', 'kerja', 'senior', '']",netral
+"['ganjar', 'pranowo', 'rakyat', 'gentar', 'dikeroyok', 'elit', 'partai']",netral
+"['', 'rambut', 'putih', '', '', 'pilih']",netral
+"['dumdum', 'hindari', 'manusia', '', '', 'negara', 'pilihlah', 'pemimpin', '', 'ganjar', 'pranowo', 'utk', 'lupakan', 'partai', 'politik', 'nkri', 'lolos', 'kehancuran']",netral
+"['', '', 'anies', '', 'dukung', 'rakyat', '', 'dukung', 'jokowi']",netral
+"['', 'sekolah', 'gratis', 'udah', 'dimana']",positif
+"['', 'pemilik', 'lahan', 'terkena', 'project', 'jalan', 'tol', 'kataraja']",netral
+"['chotimah', 'apanya', '', 'bohong', 'sih', 'liatcke', '', 'brotojoyo', 'semarang', 'sekolahnya', 'disitu', 'udh', 'berdiri']",netral
+"['assalamualaikum', '', '', 'mohon', 'perhatian', 'kerja', 'puluhan', 'dusun', 'kendal', 'desa', 'basuhan', 'kec', 'eromoko', 'kab', 'wonogiri', 'telpon', 'operatur', 'internet', 'tolong', 'bts', 'dibangun', 'jaman', 'sby', 'sekrg']",netral
+"['smk', 'negeri', 'jateng', 'gagasan', 'gubernur', 'jateng', 'ganjar', 'pranowo']",netral
+"['', 'whyyun', 'xpaix', 'cobain', 'aja', 'minum', 'ember']",netral
+"['', 'bedah', 'rumah', 'kader']",netral
+"['perubahan', 'cepat', 'peta', 'politik', 'indonesia', 'pengaruhi', 'dukungan', 'ganjar', 'pranowo', 'pdip']",netral
+"['', 'krr', '', 'onche', '', 'ogi', 'lasan', 'terharu', 'bahagia', 'semoga', 'sukses', '', 'dek']",netral
+"['', '', 'ogi', 'anakkolong', 'chotimah', 'bertanggung', 'kebiadaban', 'kejahatan', 'ham', 'amp', 'lingkungan', '', 'desa', 'wadas']",netral
+['chotimah'],netral
+"['', 'rakyat', 'indinesia', 'membutuhkan', 'orang', 'ganjar', 'meneruskan', 'pembangunan', '', 'presiden', 'jokowi', 'indonesia', 'maju']",netral
+"['', 'kalo', 'gabung', '']",netral
+"['', 'ganjar', 'pilihanku']",netral
+"['', 'anakkolong', 'wkwkwk', '', 'sok', 'keras', 'bro', 'pemilu', 'kabinet', 'selamat', 'kalah', 'utk', 'ketiga', 'kalinya', 'wkwkkw']",positif
+"['terima', 'kasih']",netral
+"['', 'mas', 'ganjar', 'pranowo', 'aja', 'pilih']",netral
+"['sarah', 'chotimah', 'namanya', 'pencitraan']",netral
+"['chotimah', 'lemparlempar']",netral
+"['mari', 'nasionalis', 'loyalis', 'gus', 'dur', 'bersatu', 'melangkahkan', 'kaki', 'yenny', 'wahid', 'khofifah', 'berpijak', 'insha', 'allah']",netral
+"['chotimah', 'survei', 'langsung', 'meroket']",netral
+"['', 'status', 'gubernur', 'jalan', 'japara', 'bangsripajak', 'motor', 'telat', 'kena', 'sangsijadi', 'gubernur', 'peka', 'presidenkacau']",netral
+"['', 'wkwkwk', 'makhluk', 'sampah', 'ngelesss', 'mulu', '', 'elo', 'nyalahin', 'gubernurnya', 'utk', '', 'masyarakatnya', 'kaga', 'hubungannya', '', 'sekalinya', 'lgbt', 'elo', 'ngelessss', 'makhluk', 'sampah', 'emang', 'tokaiiiii', '', 'standar', 'ganda']",netral
+"['pamit', '', 'rapat', 'paripurna', 'terakhirnya', 'obrolan', 'presiden', 'jokowi', 'ganjar', 'smkn', 'jateng', 'terobosan', 'utk', 'tingkatkan', 'sdm', 'dlm', 'rangka', 'pengentasan', 'kemiskinan', 'terealisasi', 'kerjasama', 'pemprov', 'jateng', 'dprd', 'ganjaruntuksemua']",netral
+"['chotimah', 'ogi', 'ganjar', 'pranowo', 'presidenkarena', 'asli', 'jowosesuai', '', 'jangka', 'jayabayanotonegoro']",netral
+"['', 'chotimah', 'membuktikan', 'kasih', 'video', 'jalas', 'napa', 'nlok', 'goblok']",netral
+"['harga', 'perempuan', '', '', 'yenny', 'wahid', '', 'khofifah', 'menolak', 'tawaran', 'posisi', 'cawapres', '', 'mari', 'berpihak', 'langkah', '', 'perempuan', 'dimana', 'beliaunya', 'berpihak', '', 'kubu', 'ganjar', 'pranowo', '']",netral
+"['chotimah', 'itukan', 'pake', 'pilih', 'ganjar', '', 'laen', 'kagak']",netral
+"['sahabat', 'jalancantik', 'jatenggayeng', 'pekerjaan', 'kepras', 'urug', 'bahu', 'jalan', 'pemeliharaan', 'rutin', 'jalan', 'jembatan', '', 'ruas', 'jalan', 'balai', 'pengelolaan', 'jalan', 'wilayah', 'magelang']",netral
+"['', 'chotimah', '']",netral
+"['tanda', 'alam', 'bicara', 'kali', 'lawan', 'menang']",netral
+"['sahabat', 'jalancantik', 'jatenggayeng', 'pekerjaan', 'normalisasi', 'saluran', 'pemeliharaan', 'rutin', 'jalan', 'jembatan', '', 'ruas', 'jalan', 'balai', 'pengelolaan', 'jalan', 'wilayah', 'magelang']",netral
+"['wr', '', 'king', 'maker', 'hrs', 'menang', 'lawan', 'org', '', 'kalah', '', 'jkw', 'kalah', 'jkw', 'hrs', 'solid', 'dkng', 'perjuangan', 'sdh', 'solid', 'tinggal', 'jkw', 'jgn', 'endose', '', '', '', '', 'gabungkan', '', '', 'lbh', '', 'dkng', '', '', 'dibalik', '', 'anak', 'golput']",positif
+"['chotimah', 'capresnya', 'cak', 'gatot', 'gagal', 'total']",netral
+"['', 'imin', 'pkb', 'kirain', 'pilih', 'novel', 'bamukmin']",positif
+"['', '', 'pimimpin', 'bersungguh', 'sungguh', 'peduli', 'rakyat']",netral
+"['sahabat', 'jalancantik', 'jatenggayeng', 'pekerjaan', 'pembersihan', 'jembatan', 'pemeliharaan', 'rutin', 'jalan', 'jembatan', '', 'ruas', 'jalan', 'balai', 'pengelolaan', 'jalan', 'wilayah', 'magelang']",netral
+"['', 'inii', 'kampanye', 'apaa', 'tugas', 'pokok']",netral
+"['', 'politik', 'beda', '', 'rakyat', 'apapun', '', 'buzer', 'beda', '', 'pagi', 'makan', 'sore', 'makan', 'tempe', 'partai', 'nyerang', 'nyanjung', '', '', 'konsisten', 'dkng', '', 'anak', '']",negatif
+"['', 'mantab', 'jokowi', 'presiden', 'terbaik', 'dunia']",netral
+"['', 'semangat', 'gunromli', 'semoga', 'perjuangannya', 'membuahkan', 'hasil', 'setimpal']",netral
+"['sahabat', 'jalancantik', 'jatenggayeng', 'pekerjaan', 'potong', 'rumput', 'pemeliharaan', 'rutin', 'jalan', 'jembatan', '', 'ruas', 'jalan', 'balai', 'pengelolaan', 'jalan', 'wilayah', 'magelang']",netral
+"['', 'mantab']",netral
+"['', 'wkwkwk', 'drama', 'biar', 'narik', 'simpati']",netral
+"['', 'udah', 'pensiun', 'kagun', 'tae', '', 'pdi', 'wkwkwk']",netral
+"['', 'capres', 'jualannya', 'endorse', 'jokowi', 'nga', 'salah', 'emanng', 'sih', 'penelitian', 'penyuka', 'bokep', 'cenderung', 'percaya']",positif
+"['', 'setuju']",netral
+"['', 'jalan', '', 'ngajaran', '', 'kaliprak', 'jelek', 'banget', '', 'hancur', 'sehancur', 'hancurnya', 'mohon', 'bantuannya']",netral
+"['', 'koalisi', 'pdip', 'ppp', 'koalisi', 'pdip', 'kemana', 'ppp', 'berlabuh']",netral
+"['', 'pkb', 'menunggu', 'reaksi', 'efendy', 'choiri', 'bener', 'cak', 'imin', 'mendampingi', 'anis']",netral
+"['', 'blm', 'orientasi', 'politik', 'warga', '', '', 'nyeleneh', 'dibilang', 'aneh', 'sepakat', 'warga', '', 'pendukung', 'pkb', 'disuruh', 'memilih', 'capres', 'cawapres', 'suka', 'dibilang']",netral
+"['', 'mimpinya', 'orangorang', 'goblok', 'sperti', 'pendukungnya', 'ganjar']",netral
+"['', 'faktor', 'gusdur']",netral
+"['ganjar', 'pranowo', '', '', 'kali', 'legislator', '', '', 'kali', 'gubernur', '', 'dipecat', '', 'anti', 'intoleransi', 'radikalisme', '', 'bersih', 'pelanggaran', 'ham', '', 'berprestasi', '', 'jelang', 'pengumuman', 'capres', 'cawapres']",negatif
+"['', 'maju', 'pasangan', 'menang', 'tipis', 'nda', 'dibilang', 'berharap', 'mendulang', 'suara', 'kaum', '', 'sulit', '', 'dlm', 'koalisi']",netral
+"['', 'ambil', 'hikmahnya', 'sedari', '', 'nda', 'suka', 'pas', 'pendaftaran', 'realistis', 'merapat', '', '']",netral
+"['mas', 'bpk', 'selamat', 'berkonstentasi', 'merebut', 'hati', 'rakyat', 'meraih', 'kemenangan', '', 'thn', 'politik', '', '', '', 'politic', '', 'the', 'arts', '', 'possible']",netral
+"['chotimah', 'proyek', 'pencitraan', 'koq', 'disanjung']",netral
+"['chotimah', 'ogi', 'ganjar', '', 'gaya', 'kepemimpinannya', '', 'jokowi']",netral
+"['bacapres', 'prabowo', 'subianto', 'ganjar', 'pranowo', 'diidentikkan', 'citra', 'presiden', 'joko', 'widodo', 'jokowi', 'prabowosubianto', 'ganjarpranowo', 'bacapres', 'jokowi', 'citra', 'nalarpolitik', 'pinterpolitik']",netral
+"['', 'bahrawi', 'ganjar', 'pranowo', 'dgn', 'prabowo', 'pororo', 'wkwkwkkwk', '', 'mbah', '', 'menang', '', 'pororo']",netral
+"['', 'genjer', 'pranowo', 'ora', 'mutu', 'blas', 'pilih', '', 'calon', 'pemimpin', '', 'indonesia', '', 'lainyg', '', '']",netral
+"['', '', 'sekolah', '', 'bilng', 'gratis', 'tpi', 'bangunan', '', 'tetep', '', 'wali', 'murid', 'klas', '', 'negri', 'loh', 'aga', 'aneh']",positif
+"['pahlewa', '', 'partai']",netral
+"['', 'sampeyan', 'inget', 'sich', 'gak', 'keburu', 'ketahuan']",netral
+"['chotimah', 'jokowi', '', 'palu', 'kaitannya', 'ganjar', 'jokowi', 'turba', 'mikir', 'rakyat', 'ganjar', 'kerjaannya', 'lari', 'nonton', 'bokep', 'nol', 'prestasi', 'kasihan', 'banget', 'loe', 'pura', 'bahagia', 'sdh', 'tau', 'klo', 'jokowi', 'dukung', 'prabowo', 'mending', 'jujur', 'aja', 'membual']",netral
+"['', 'duit', 'baznas', 'peruntukannya', 'rakyat', 'memandang', 'partai', '']",netral
+"['', 'wakilnya', 'bermasalah']",netral
+"['', 'id', 'perjuangan', 'rakyat', '', 'kadrun', 'kali', 'gerombolan', 'kilafer', 'kesetian', 'pancasila', 'plintat', 'plintut', 'kek', 'kentut']",netral
+"['', 'perubanan']",netral
+"['ganjar', 'pranowo', 'lakukan', 'reformasi', 'korupsi', 'birokrasi', 'ribet', 'ganggu', 'pertumbuhan', 'indonesia', 'ganjarpranowo', 'ganjar', 'ganjarforpresident', 'ganjarmenangtotal', 'ganjarpranowori', 'ganjarpranowoforpresident']",netral
+"['', 'jenderal', 'purnawirawan', 'tnipolri', 'dekalarasi', 'dukung', 'ganjar', 'pranowo', 'ganjarpranowo', 'ganjar', 'ganjarforpresident', 'ganjarmenangtotal', 'ganjarpranowori', 'ganjarpranowoforpresident']",netral
+"['ganjar', 'imbau', 'kades', 'perbanyak', 'inovasi', 'langkah', 'pengentasan', 'kemiskinan', 'ganjarpranowo', 'ganjar', 'ganjarforpresident', 'ganjarmenangtotal', 'ganjarpranowori', 'ganjarpranowoforpresident']",netral
+['eeitsss'],netral
+"['gubernur', 'jawa']",netral
+"['', 'ganjar', 'pranowo', 'presiden']",netral
+"['', 'bokep', 'mania']",netral
+"['chotimah', 'emang', 'prestasi', 'ganjar']",netral
+"['politik', 'capres', 'cawapres', 'bancinto', '', 'awak', 'kawin', '', 'urang', 'galau', 'perubahan', 'koalisi', 'parpol', 'pendukung', 'sebelu', 'pendaftaran', '', 'kpu', 'jangn', 'kawin', 'lari', 'kawin', 'paksa']",netral
+"['', 'the', 'next', 'president']",netral
+"['', 'prestasi', '', 'nyata', 'utk', 'pengentasan', 'kemiskinan']",netral
+"['milih', 'ahy', 'blunder']",netral
+"['pengkhianatan', 'jalan', 'tuhan', 'mewujudkan', 'mimpi', '', 'pasangan', '', 'terwujud', 'amp', 'memenangkan', 'pemilu', '', 'berdiri', 'presiden', '', '']",netral
+"['', 'chotimah', 'smk', 'negeri', 'jateng']",netral
+"['chotimah', 'satunya', 'presiden', '', 'dunia', '', 'kerjaannya', 'jalan', 'trus', 'sembako']",netral
+"['ganjar', 'pranowo', 'hadir', 'mengisi', 'acara', 'talk', 'show', 'road', '', 'ideafest', '', '', 'lead', 'talk', '', 'ballroom', 'djakarta', 'theater', 'jakarta', 'pusat']",netral
+"['', 'prabowo', '', 'calon', 'presiden', 'rekomendasi', 'presiden', 'ganjar', 'pranowo', '', 'calon', 'presiden', 'pilihan', 'presiden', 'anies', 'baswedan', '', 'calon', 'presiden', 'pilihan', 'rakyat']",netral
+"['ganjar', 'pranowo']",netral
+"['diurutan', 'nomor', 'wahid', '', 'jumawa', 'berbesar', 'hati', 'berusaha', 'bertawakal', 'meraih', 'kemenangan', 'persaingan', 'dinamika', 'trus', '']",netral
+"['', 'indi', 'baca']",netral
+"['', 'dpuprwsb', 'jatim', 'aspalnya', 'jelek', 'jelek']",netral
+"['chotimah', 'malam', 'faham', '', 'bogor', 'macet', 'macetan']",netral
+"['chotimah', 'ogi', 'sih', 'ikuti', 'arahan', 'pkde', 'aja', 'dah', 'alasannya']",netral
+"['', 'kawan', 'nya', 'aja', 'dikhianatin']",netral
+"['', 'alhamdulillah']",netral
+"['', 'indi', 'kah', '', 'karakter', 'jungjungan']",netral
+"['perbedaan', 'ganjar', 'pranowo']",netral
+"['', 'jateng', 'indonesia', 'jtg', 'terima', 'kasih', 'semoga', 'sinergitas', 'penanggulangan', 'bencana', 'solid', 'tangguh', 'hohhe', 'avignamjagadsamagram']",positif
+"['kerja', 'nyata', 'ganjar', 'pranowo']",netral
+"['ganjar', 'pranowo', 'pas', 'negeri']",netral
+"['elektabilitas', 'ganjar', 'pranowo', 'wan', 'anus', 'tetaplah', '', 'bubar', 'cawapres', 'surya', 'paloh', 'nasdem', 'demokrat', 'pkb', 'ahy', 'pkb', 'green', 'party', 'zoro', 'agustus', 'grup', 'pks', 'cak', 'imin']",positif
+"['rakyat', 'butuh', 'sosok', 'meneruskan', 'kinerja', 'jokowi']",netral
+"['pdip', 'menang']",netral
+"['dukungan', 'ganjar', 'pranowo', '', 'pilpres']",netral
+"['', 'krr', '', 'onche', '', 'ogi', 'lasan', 'brebes', 'mili', 'eluh', 'nduk', 'semoga', 'pati', 'kabupaten', 'kebanggaan', 'jawa', 'prestasi', 'siswa', 'siswinya']",netral
+"['', 'indi', 'parah', 'bicara', '', 'kanan', 'langkahnya', 'kekiri', 'berjanji', 'diingkari', 'baca']",netral
+"['', 'orang', 'tolol', 'kau', 'dukung', '', 'tolol', 'hahahahahaha']",netral
+"['', 'prestasi', '', 'presiden']",netral
+"['', 'ciecie', '', 'dibantu', 'viral', '', 'sampe', 'segitunya', 'cawecawenya', 'presiden', '', 'kemandirian', 'tdk']",netral
+"['', 'kayak', 'tau', 'hutang', 'piutang', 'negara', 'aja', '', 'drun']",netral
+"['', 'presiden']",netral
+['indi'],netral
+"['', 'alhamdulillah', 'demokrat', 'gabung', '', 'ganjar', 'pranowo', 'pks', 'gabung', '', '', 'prabowo', 'nasdem', 'pkb', '', 'mengusung', 'capres', 'keturunan', 'bani', 'yaman', 'bubar', 'pemilihan', 'presiden', '', 'nama', 'prabowo', 'lawan', 'ganjar', 'menang', 'prabowo']",netral
+"['chotimah', 'ogi', '', '', 'aja', 'deh']",netral
+"['chotimah', 'abis', '', 'afrika', 'lho']",netral
+"['', 'adlh', 'milenial', 'cerdas', 'sandiwara', 'talking', 'only']",netral
+"['', '', 'pemilihan', 'presiden', '', '', 'ganjar', 'pranowo', 'prabowo', 'anies', 'nggak', 'blassss']",netral
+"['mah', '', 'dtg', '', 'official', 'terima', 'tangangan', 'utk', 'debat', 'ber', 'prabowo', 'cerita', 'perang', 'sprt', 'guru', 'sejarah', '', 'sma', 'tema', '', 'dibahas', '', 'rosiade']",netral
+"['', 'mantap', 'insyaallah', 'anies', 'presiden', '', 'amin', 'allahuma', 'amin', 'indonesia', 'butuh', 'anies', 'perubahan']",netral
+"['', 'ujunhnya', 'dukung', 'nih']",netral
+"['', 'id', 'perjuangan', 'hak', 'ngekorin', 'kader', 'partai', 'org', 'situ', 'waras']",positif
+"['', 'id', 'perjuangan', 'jokowi', 'nunjuk', 'prabowo']",netral
+"['lagak', '', 'iyut', 'kapir', 'menghentikan', '', 'diketawain', '']",netral
+"['', 'kadrunista', 'teriak', 'amp', 'dikibuli', 'bpk', 'presiden', 'kenyataannya', 'mrk', '', 'dikibuli', 'sirajangibulanies']",netral
+"['alasan', '', 'gubernur', '', 'keliling', 'indonesia', 'campur', 'urusin', 'daerah', 'orang', 'acara', 'walikota', 'indonesia', 'dateng', 'ngomong', 'gagasan']",netral
+"['wedoks', '', '', 'lumayan', 'ngopi', 'dengerin', 'oposan', 'eker', 'ekeran', 'temennya']",netral
+"['', 'pemimpin', '', 'akui', 'mengakui', 'top', 'mas', 'ganjar']",positif
+"['', 'udah', 'kebodohan']",netral
+"['ganjar', 'pranowo', 'berhasil', 'ciptakan', 'kebersamaan', 'terbangun', '', 'jawa', 'ganjarpresiden', 'ganjarcapres']",netral
+"['prediksi', '', 'pasang', 'capres', 'cawapres', '', 'anies', 'baswedanmuhaimin', 'iskandar', '', 'prabowo', 'subiantoeric', 'tohir', '', 'ganjar', 'pranowo', '', 'khofifah', '', 'sandiaga', 'uno', '', 'ahy']",netral
+"['launching', 'rumah', 'xvg', 'artis', 'pendukung', 'ganjar', 'pranowo', '']",netral
+"['', 'sekolah', 'negeri', 'emang', 'gratis', '', 'dinikmati', 'orang', 'kaya', 'sistem', 'zonasi', 'manipulasi', 'kartu', 'miskin', 'nebeng']",positif
+"['orang', '', 'sibuk', 'klarifikasi']",netral
+"['', 'beda', 'petugas', 'partaitidak', 'komitmen', 'integritassama', 'aja', 'boong']",netral
+"['makelar', 'menghubunghubungkan', 'biro', 'jasa']",netral
+"['menyambut', 'pesta', 'demokrasi', '', 'santun', 'damai', 'dusun', '', '']",netral
+"['dasarnya', 'pelajaran', '', 'menyenangkan', 'dipelajarisalah', 'kiat', '', 'belajar', 'dgn', 'kecintaankalau', 'cinta']",netral
+"['chotimah', 'cawapres', 'otak', '', 'modal', 'sembako', 'uang', 'ngentit']",netral
+"['', 'ngomong', 'apapun', 'ngaruh', 'bodo', 'tetep', 'ganjar', 'pranowo', 'terbaik']",netral
+"['chotimah', 'inilo', 'rekam', 'jejak', 'siganjar', 'bokep']",netral
+"['ganjar', 'pranowo', 'hadiri', 'acara', 'acara', 'road', '', 'idea', 'fest', '', '', 'lead', 'the', 'leap', '', 'djakarta', 'theater', 'ganjar', 'pranowo', 'narasumber', 'kapasitas', 'gubernur', 'jawa', 'tajuk', 'diskusi', 'toward', 'the', 'future', 'indonesia', '', 'epicenter', '', 'intellectual', 'property', 'and', 'creative', 'economy']",positif
+"['tanggapan', 'ganjar', 'pranowo', 'acungan', 'jempol', 'jokowi']",netral
+"['', 'ganjar', 'presiden']",netral
+"['', 'chotimah', 'iya']",netral
+"['', 'mantapp', 'bapakk']",netral
+"['', 'pemimpin', '', 'patut', 'dicontoh']",netral
+"['', 'kasian', 'ganjar', 'engk', 'dpt', 'dukungan', '', 'rakyat', '', 'ajak', 'mahasiswa', 'engk', 'beranidgn', 'alasan', 'msh', '', 'gubernur']",netral
+"['', 'tiger', 'bang']",netral
+"['', 'ttp', 'jaga', 'kesehatan', '']",netral
+"['', 'mantapp', 'bapakkk']",netral
+"['presiden', 'jokowi', 'percaya', 'kerja', 'gub', 'ganjar', 'pranowo', 'sragen']",netral
+"['', 'cak', 'imin', 'janji', 'manies', 'palsu', '', 'perusak', 'koalisi', '', 'ganjar', 'pranowo', 'presiden', '', '', 'jaga', 'hati', 'kewarasan', '', 'cak', 'imin', 'terhipnotis', 'wan', 'aibon', 'memedi', 'mahoni', 'palsu']",netral
+"['', 'lulusan', 'smk', 'daftar', 'akmil', 'loh']",netral
+"['', 'cawe', 'cawe', '', '', '', 'satunya', 'ngak', 'dicawe', 'cawe']",netral
+"['', 'mengaguminya']",netral
+"['', '', 'memuji', 'mobil', 'esemka', 'laku', '', 'unit']",netral
+"['', 'tolong', 'tambang', 'ilegal', '', 'rembang']",netral
+"['relawan', 'prabowo', '', 'pindah', 'haluan', 'dukung', 'ganjar', 'pranowo', '', 'pilpres', '', '', 'ganjarpranowo', 'temanganjar', '', 'tag', 'cak', 'imin', 'surya', 'paloh', 'demokrat', 'bubar']",netral
+"['', 'top', 'ganjarpranowo', 'ganjarrebound']",positif
+"['', 'krr', '', 'onche', '', 'ogi', 'lasan', 'pemimpin', 'hatiterima', 'kasih']",netral
+"['sitiatikoh', 'berpesan', '', 'jgn', 'prnh', 'lelah', 'utk', 'gubernur', 'jateng', 'ganjar', 'ganjarpranowo', 'capres', 'capres', 'ganjar', 'ganjarpranowo', 'menangkanganjar', 'calonpresiden', 'ganjarpresiden', 'ganjarpranowopresiden', 'ganjarpranowoforpresident']",netral
+"['indi', 'orator', 'ulung', 'jago', 'debat', 'pasih', 'ngomong', 'inggris', 'kemampuan', '', 'dipelajari', 'menyediakan', 'fasilitas', 'pendidikan', 'gratis', 'berkualitas', 'anak', 'keluarga', 'miskin', 'produknya', 'tenaga', 'kerja', 'terampil', 'bermanfaat', 'dibanding', 'teori', 'bau', 'mulut', 'doang']",positif
+"['raharjo', 'pdip', 'jabang', 'bayi', '', 'ganjar', 'pranowo', '', '', 'tongkat', 'estafet', 'kepemimpinan', 'jokowi']",netral
+"['', 'kak', 'knp', '', 'merusak', 'mood', 'org', '', 'udh', 'ngerasa', 'sedihh']",netral
+"['', 'chotimah', 'eleh']",netral
+"['', 'teruskan', 'perjuangan', 'pakde', 'jokowi', '', 'pakde', 'ganjaran']",netral
+"['kerja', 'nyata', 'pemarah', 'miskin', 'kreativitas', 'tua', '', 'anies', 'penata', 'suka', 'kelebihan', 'bayar', 'ngibul', 'gue', 'sih', 'ganjar', 'pranowo']",netral
+"['prabowo', '', 'kabinet', 'ganjar', 'pranowo', 'prabowo', 'menhan', 'wantimpres', 'jokowi']",netral
+"['', 'bumn', 'mmg', 'fokus', '', 'layanan', 'publik', '', 'melulu', 'profit']",netral
+"['ns', 'mantap', 'programnya', 'ganjar', 'pranowo', '']",netral
+"['ganjar', 'pranowo', 'narasumber', 'kapasitas', 'gubernur', 'jawa', 'tajuk', 'diskusi', 'toward', 'the', 'future', 'indonesia', '', 'epicenter', '', 'intellectual', 'property', 'and', 'creative', 'economy', 'pdiperjuangan', 'ganjaruntuksemua', 'ganjarpresiden', 'gerakcepatindonesiamaju', 'menangkanganjar']",positif
+"['ganjar', 'pranowo', 'hadiri', 'acara', 'acara', 'road', '', 'idea', 'fest', '', '', 'lead', 'the', 'leap', '', 'djakarta', 'theater', 'gubernur', 'jawa', 'ganjar', 'pranowo', 'hadir', 'mengisi', 'acara', 'talk', 'show', 'road', '', 'ideafest', '', '', 'lead', 'talk']",netral
+"['ganjar', 'pranowo', 'berpamitan', 'perkumpulan', 'gereja', 'gereja']",netral
+"['', 'ngakak', '', 'hard', 'klo', 'world', 'bilang', 'den', 'teratas', 'emang', 'nyari', 'makan', 'nya']",negatif
+"['', 'diajak', 'debat', 'ama', 'mahasiswa', '', 'tuh']",netral
+"['sahabat', 'ganjar', 'kenalkan', 'budaya', 'seni', 'topi', 'patonro', 'sulawesi', 'selatan', 'gelar', 'bazar', 'sembako', 'murah', 'sahabatganjar', 'ganjarpranowo', 'ganjar', 'generasigotongroyong', 'ganjarpresiden', 'ganjaruntuksemua']",netral
+"['', 'ngomongin', 'revaluasi', 'sih', '', 'oke', '', 'anggap', '', 'dah', 'paham', '', '', 'sepakat', 'dgn', 'semangat', 'pemerataan']",netral
+['kompas'],netral
+"['', 'id', 'lha', 'bang', '', 'aja', 'bilang', 'cemen', 'soalalibi', 'gpmosok', 'lbih', 'pintet', '', 'bang', 'rglogika', 'itakmu', '', 'hrs', 'diperbaiki']",netral
+"['', 'id', 'perjuangan', 'narasi', 'cita', 'indah', 'psi', '', '', '', 'lolos', 'parlemen', 'berdiri', 'mencuri', 'perhatian', 'silent', 'majority', 'org', 'nasionalis', '', 'sepaham', 'pdip', '', 'males', '', 'politik', 'nelayan', 'nyari', 'ikannya', '', 'laut', 'skg', '', 'nyari', 'ikan', '', 'kebun']",netral
+"['ganjar', 'pranowo', 'calon', 'presiden', 'bacapres', '', 'pdip', 'optimisme', 'kaum', 'santriwati', 'menyongsong', 'indonesia', 'emas', '', 'sahabatganjar', 'ganjarpranowo', 'ganjar', 'generasigotongroyong', 'ganjarpresiden', 'ganjaruntuksemua']",netral
+"['ganjar', 'bertemu', 'anak', '', 'citacita', 'dokter', 'hati', 'sahabatganjar', 'ganjarpranowo', 'ganjar', 'generasigotongroyong', 'ganjarpresiden', 'ganjaruntuksemua']",netral
+"['doaku', 'menyertai', '', 'ganjar', 'pranowo']",netral
+"['', 'gasspolllganjar']",netral
+"['', 'mantap', 'paklanjutkan']",netral
+"['generari', 'muda', 'riau', 'berdeklarasi', 'dukung', 'ganjar', 'pranowo', 'pemilu', 'damai', 'ganjarpranowo', 'politikidentitas', 'pemiluindonesia']",netral
+"['chotimah', '', 'cuman', 'adu', 'gasgasan']",netral
+"['', 'mempertahankan', '', 'angka', '', 'skrg', 'nyasar', '', 'cak', 'imin', '', 'wan', 'aibon', 'koalisi', '', 'abaikan', 'ane', 'minum', 'kopi', 'gmn', 'ujungnya', 'koalisi', '', 'presiden', 'gabung', 'tdk', '', '', 'skl']",netral
+"['', 'duit', 'baznas', 'nama', 'partai', 'den']",netral
+"['saar', 'hadir', '', 'rumah', 'aspirasi', 'ganjar', 'pranowo', 'jakarta']",netral
+"['', 'taunya', 'beliin', 'ahy']",netral
+"['', 'id', 'apanyayg', 'miss', 'komunikasinunggu', 'joging', '', 'diajak', 'berdebat', 'mahasiswatolol']",negatif
+"['sdh', 'skrg', 'gini', 'aja']",netral
+"['', 'id', 'perjuangan', 'dikritik', 'ngeles', 'aja', 'oii', 'butuh', 'suara', 'swing', 'voters', '', 'msh', 'ragu', '', 'pdip', '', '', 'nyerang', 'pdip', '', 'ketentuan', 'arah', 'aplg', '', 'dukung', 'capresnya', 'nya', 'pdip', 'bikin', 'eneg', 'bkn', 'utk', 'coblos', 'pdip', '', 'pikir', 'voter', 'koalisi', '', 'mgkn', 'pindah', 'nyoblos']",netral
+"['', '', '', 'warga', 'jateng', '', 'milih', 'den', 'bokep']",netral
+"['tolong', 'kalo', 'pilih', 'trims']",netral
+"['', 'vulgar', 'gitulah', 'banglg', 'promo', 'lho', 'belio', 'inikok', 'langsung', 'dihadang', '', 'jawa', 'umr', 'terendah', '', 'sihkan', '', '', 'terbanglangsung', 'dipatahin', '']",positif
+"['', 'id', 'jlaskan', 'dgn', 'pintar', '', 'alias', 'netral', 'sdh', 'oasti', '', 'bnarkan', 'alasanmu', '', 'ktika', 'kdunguanmu', 'tdk', 'paham', '', '', 'joging', '', '', 'lainyayg', 'diraskan', 'ngak', 'masuk', 'akal', 'akal', '', 'berartikamu', 'mmang', 'goblok']",netral
+"['', 'id', 'selow', 'bangmiss', 'com', 'doang']",netral
+"['', 'lanjutkan', 'soliddibepakangganjar']",netral
+"['wedoks', 'pasar', 'andika', 'idolaaaaaambah', 'bianto', '']",netral
+"['', '', 'diajak', 'berdialog', '', 'pdip', 'ambisi', 'ngotot', 'cawapres', 'dikliring', 'pengalaman', 'apapun', 'nol', 'saran', 'nih', 'mendingan', 'merapat', '', 'pdip', 'deal', 'menteri', 'kinerja', 'mentri']",netral
+"['', 'sehat', 'ganjar']",netral
+"['', 'semangat', 'teruspantang', 'kendor']",netral
+"['dibalik', 'pemimpin', 'hebat']",netral
+"['', 'mantap']",netral
+"['', '', 'official', 'eee', 'buset', 'bener', 'sih']",netral
+"['ganjar', 'pranowo', 'memperoleh', 'penghargaan', 'news', 'maker', 'televisi', 'inews']",netral
+"['', 'asmara', 'rekam', 'jejak', 'asli', 'percaya', 'cak', 'imin', 'cawapresnya', 'tegak', 'lurus', 'jokowi', 'lanjutkan', 'pembangunan', 'cak', 'imin', 'indonesia', 'maju', 'bonus', 'demografi', 'hrt']",positif
+"['', 'krr', '', 'onche', '', 'ogi', 'lasan', 'simpati', 'santi', 'semoga', 'sehat', 'lancar', 'sukses', 'belajar']",netral
+"['gasken', 'kang', 'moga', '', '', 'pkbpedulibumi', 'salmaatindonesiaawards', 'sosok', 'ganjar', 'pranowo', 'green', 'party', 'welcome', '', 'sung', 'hanbin', 'agustus', 'pkb']",positif
+"['', 'emang', '', '', 'ragukan', 'kepemimpinan', 'beliau']",netral
+"['', 'imin', 'pkb', 'gak', 'cak', 'imin', '', 'cawapresnya', 'anies', 'hehehe']",netral
+"['pilih', 'pemimpin', '', 'menghina']",netral
+"['', 'mantap', 'sehat']",netral
+"['', 'mantap', 'ganjar']",netral
+"['keputusan', 'bagus', 'berkah', '']",netral
+"['', 'pendukung', 'kayak', '', 'mah', 'betah', 'nonton', 'bokep', 'aja', 'tontonan', 'mencerdaskan', '', 'ambil', 'judulnya', 'aja']",netral
+"['', 'ganjar', 'siji', 'ganjar', 'kabeh']",netral
+"['perjuangan', 'dna', 'pembohong', 'partainya', 'jaman', 'mobil', 'ghoib', 'esemka', '', 'modal', 'pencitraannya']",netral
+"['', 'allah', 'membukakan', 'jalan', 'mudah', 'putaran', 'ganjar', 'pranowo']",netral
+"['', 'gass', 'poll']",netral
+"['pamit', '', 'rapat', 'paripurna', 'terakhirnya']",netral
+"['cerdas', 'merakyat', 'dukung', 'debat', 'pemilu', '', 'kampus']",netral
+"['wedoks', 'pasar', 'bs', 'periksa', 'biji', 'barang']",netral
+"['presiden', 'jokowi', 'meninjau', 'mengapresiasi', 'salah', 'prestasi', 'kinerja', 'ganjar', 'pranowo', 'program', 'sekolah', 'gratis', 'smkn', '', 'jawa', 'anakanak', 'keluarga', 'miskin', 'diimplementasikan', '', 'indonesia', 'ganjarpilihanku', '']",positif
+"['ganjar', 'merakyat']",netral
+"['doakan', 'semoga', 'presiden', 'dilantik', 'presiden', '']",netral
+"['pengkhianat', 'busuk', 'pilihan', 'rakyat', 'indonesia', 'ganjar', 'pranowo', 'pilihan', 'rakyat', 'indonesia']",netral
+"['', 'ganjar', 'pranowo', 'penerima', 'penghargaan', 'kepala', 'daerah', 'berhasil', 'mengendalikan', 'inflasi', 'piye']",netral
+['dikepung'],netral
+"['gubernur', '', 'periode', 'ngapain', 'aja', '', '', 'pemimpin', 'msh', 'pelajar', '', '', 'memilik', 'gedung', 'sekolah', 'amp', 'utk', 'tweet', 'loe', 'telek', 'lencung']",netral
+"['', 'dpuprwsb', '', '', 'tuntas', '', 'sarjana', 'sipil', '']",netral
+"['lelah', '', '', 'kasihan', 'keringetan', 'kyk', 'gitu', 'semoga', '', 'tuhan', 'merestui', 'utk', 'presiden', 'nkri', 'biar', '', 'ngaso', 'aja', 'dgn', 'tenang']",netral
+"['keren', 'ganjar', 'pranowo']",netral
+['menangis'],netral
+"['', 'amin', '', 'rabbal', 'alamin', '', 'ndan']",netral
+"['', 'hiruk', 'pikuk', 'tetep', 'pilihankuu']",netral
+"['', 'imin', 'pkb', 'lha']",netral
+"['', 'pasar', 'bs', 'andika', 'wedoks', 'yupz']",netral
+"['', 'psi', 'kmn', 'jdnya', '']",netral
+"['', 'imin', 'pkb', '', 'dikaitan', '', 'jokowi', 'wkwkkwkw', 'besok', 'gnti', 'cawapres']",netral
+"['pelajar', 'perempuan', 'sedih', 'menangis', 'ganjar', 'pranowo', 'habis', 'jabatan', 'gubernur', 'jawa', 'tanggal', '', 'september', '', 'ganjaruntuksemua', '']",netral
+"['', 'suami', 'tkut', 'istri']",netral
+"['', '', 'prestasi', '', 'wkwkwk', 'kesebut', '', 'ektp', 'gitu', 'wkwkwk', '', 'naif', 'ato', 'tolol']",netral
+"['sahabat', 'ganjar', 'bmi', 'banteng', 'muda', 'indonesia', 'bersinergi', 'mendukung', 'ganjar', 'pranowo', 'presiden', '', '', '', '', '', 'ganjarpresidenku', '', '']",netral
+"['', 'matur', 'nuwun', 'ganjar', '', '', '']",netral
+"['', 'ganjar', 'pranowo', 'calon', 'presiden', 'bacapres', '', 'pdip', 'optimisme', 'kaum', 'santriwati', 'menyongsong', 'indonesia', 'emas', '', 'sahabatganjar', 'ganjarpranowo', 'ganjar', 'generasigotongroyong', 'ganjarpresiden', 'ganjaruntuksemua']",netral
+"['cent', 'blom', '', 'folback']",netral
+"['didu', 'gas', 'ganjar', 'susi']",netral
+"['', 'imin', 'pkb', 'paloh', 'realistis', 'klo', 'muhaimin', 'suara', '', 'smua', 'klo', 'ahy', 'dapet', 'dapet', 'malu', 'iya', 'duit', 'kagak', 'kluar', 'wapres']",netral
+"['', '', 'gabung', '', 'pdi', 'ngucapin', 'sabar', '', 'sby']",netral
+"['', 'id', 'klau', '', 'sperti', 'apakamu', 'bilang', 'jadwal', 'rapat', 'tgl', '', 'september', 'jabatan', 'tgl', '', 'september', '', 'jogingberoah', 'raga', '', '', 'jkt', 'mengomentari', 'maslah', '', '', 'warga', 'jkt', 'bstrus', 'brdebat', 'dgn', 'mhasiswa', 'dibilang', 'hrs', 'sabar']",netral
+"['dagang', 'agama', 'kalahkan', 'spesialis', 'pecundang', 'pilpres']",netral
+"['andika', 'pasar', 'bs', 'mbuh']",netral
+"['', 'siapp', 'ganjar', 'presiden']",netral
+"['', '', 'sindir', 'nih', 'gapunya', 'malu', 'sih', 'perjuangan', 'ri', '']",netral
+"['', 'bismillah']",netral
+"['partai', 'demokrat', 'membongkar', 'nasdem', 'pkb', 'usung', 'aniescak', 'imin', 'bacapres', 'pdip']",netral
+"['kemarin', 'rabu']",netral
+"['', '', '', 'nih', 'calonmu', 'ri', 'perjuangan', 'simak', 'jawabannya', 'bos', '']",netral
+"['', 'aura', 'nya', 'presiden']",netral
+"['chotimah', 'rekam', 'jejak', 'takut', 'kampus']",netral
+"['', 'mengirimkan', 'tenaga', 'kerja', 'terampil', '', 'negeri', 'utk', 'magang', 'kerja']",netral
+"['', '']",netral
+"['mimpi', '', '', 'kereta', 'dgn', 'akn', '', 'kenyataan', '', 'amp', 'anies', 'tlh', 'khianati', 'kesepakatan', 'bhw', 'ahy', '', 'cawapres']",netral
+"['', 'cieee', 'ganjar', 'takut', 'debat', '', 'mahasiswa']",netral
+"['', 'penjilat', '', 'gini']",netral
+"['', 'presiden', 'cawe']",netral
+"['mayoritas', 'pendukung', 'anies', 'percaya', 'ganjar', 'pranowo', 'terlibat', 'korupsi', 'ektp']",netral
+"['', 'mohon', 'maaf', 'gub', '', 'kartu', 'jateng', 'sejahtera', '', 'kjs', '', 'nya']",netral
+"['lembaga', 'survei', 'indonesia', 'lsi', 'merilis', 'hasil', 'survei', 'agustus', '']",netral
+"['', 'arep', 'pemilu', 'mainanya', 'anak', 'smk', 'tuman', 'sih', 'eling', 'jaman', 'esemka', 'kepilih']",netral
+"['ganjar', 'pranowo', 'duet', 'aniescak', 'imin', 'gak', 'khawatir', '', 'detik', 'prabowo', 'bangkitbersama']",netral
+"['', 'gaspoll']",netral
+"['', 'ganjar', 'pranowo', 'presiden', 'nqnti', '', 'akqn', 'menghukum', 'penculuk', 'aktivis', 'mqling', 'food', 'estate', 'tanang', 'tanang', 'prabowo', '', 'hukum']",netral
+"['ganjar', 'pranowo', 'mantap']",netral
+"['kebhinekaan', 'ganjar', 'pranowo', 'diragukan']",netral
+"['', '', 'soale', '', 'nyinyir', 'sengaja', 'andi', 'arief', 'mencicit', 'ganggu', 'anies', 'puncaknya', 'baliho', 'aniesahy', '', 'faith', 'accomply', 'anies', 'pilih', 'ahy', 'turunkanpresidenilegal', 'turunkanpresidenilegal', 'sby', '', 'gak', 'bikin', 'koalisinya', 'tenang']",positif
+"['', 'ganjar', 'pranowo', 'prabowo', 'ganjar', '', 'putaran', 'kelar', '', 'kampanye', 'kaga', 'seru']",netral
+"['chotimah', 'rakyat', 'gak', '', 'tipu', '', 'program', 'dadakan', 'ngakak', 'nul']",netral
+"['kras', 'nih', '']",netral
+"['', 'gak', '', 'kagumi', 'gimana', 'presiden', 'timses', 'ganjar']",netral
+"['', 'terbaik', 'semoga', 'tuhan', 'membalas', 'jasa', 'kebaikan', '', 'amien', 'allahuma', 'amien']",netral
+"['fakta', 'mayoritas', 'warga', 'jawa', 'puas', 'kinerja', 'ganjar', 'pranowo', 'iri', 'bilang', 'mantap', 'gus', 'cak', 'imin', 'bubar', 'surya', 'paloh', 'happy', 'birthday', '', 'love', 'demokrat', 'maguire', 'sugeng', 'rahayu', 'dino', 'agustus', 'zoro', 'koalisi', 'perubahan']",positif
+"['', 'belajar', 'solawat', 'dululah', 'omong', 'kosong']",netral
+"['kartu', 'jateng', 'sejahtera', 'rintisan', 'ganjar', 'pranowo', 'solusi', 'atasi', 'kemiskinan', 'iri', 'bilang', 'mantap', 'gus', 'cak', 'imin', 'bubar', 'surya', 'paloh', 'happy', 'birthday', '', 'love', 'demokrat', 'maguire', 'sugeng', 'rahayu', 'dino', 'agustus', 'zoro', 'koalisi', 'perubahan']",positif
+"['suara', 'hati', 'kecilnya', 'bicara']",netral
+"['ganjar', 'pranowo']",netral
+"['', 'hahahaahaaa', 'ngakak']",netral
+"['berkeadilan', '', 'keadilan', 'kelompok', '', 'asmara']",netral
+"['', 'wowo', 'gak', '', 'panggil', 'rakyat']",netral
+"['', 'kalai', 'gak', 'pendamping']",netral
+"['baguslah', 'berkah', '']",netral
+"['', 'jateng', 'ri', 'kemdikbud', 'ri', 'pie', 'mbah']",netral
+"['', 'whyyun', 'xpaix', 'marto', 'nyobo', 'trus', '', '', 'wekekekek']",netral
+"['', 'sdm', 'mesti', 'genjot', '', 'memelihara', 'mengembangkan', 'infrastruktur', '', 'orientasi', '', 'teknologi', 'ramah', 'lingkungan']",netral
+"['pilih', 'capres', 'gimna', 'lgi', 'dah', 'bilng', '', '', '', 'terbaik', 'apkh', 'menunggu', 'telunjuk', 'ijroil']",netral
+"['', 'mntull']",netral
+"['', 'semangat']",netral
+"['chotimah', 'video']",netral
+"['', 'taek', 'basi', '', 'jualan', 'kek', 'gini', 'tur']",netral
+"['', 'jual', 'gorengan', 'dah', 'gosong']",netral
+"['', 'keren']",netral
+"['', 'perjuangan', 'anakkolong', 'chotimah', '']",netral
+"['', 'mbak', 'yenny', 'wahid', 'wakil', 'ganjar', 'wakil', 'presiden', 'beliau', 'peluang', 'utk', 'memurnikan', 'pkb', 'pengaruh', 'cak', 'imin']",netral
+"['', 'diluruskan']",netral
+"['wedoks', 'pasar', 'bs', 'ayah', 'jomblo', 'maaf', 'impoten']",netral
+"['wakilnya', '', 'khofifah', '', 'menang', 'butuh', 'pilpres', 'putaran', 'wakilnya', 'yenny', 'wahid']",netral
+"['', 'ababi']",netral
+"['', 'masya', 'allah']",netral
+"['', 'polesan', 'berguna']",netral
+"['', 'imin', 'pkb', 'jokowi', 'cawe', 'mulu']",netral
+"['kemenangan', 'manis', 'berpasangan', 'mbak', 'yenny', 'wahid', 'all', 'out', 'suara', 'gusdurian', '', '']",netral
+"['', 'salam']",netral
+"['', 'terbaik']",netral
+"['disetting', 'penggila', 'kekuasaan']",netral
+"['back', 'jgn', 'kebanyakan', 'ntar', 'mabok']",netral
+"['', 'gubernur', 'jawa', 'sumber', 'daya', 'manusia', 'terampil', 'membangun', 'infrastruktur', 'hijau', 'indonesia', '', 'kehadiran', 'sekolah', 'vokasi', '', 'jateng', 'sahabatganjar', 'ganjarpranowo', 'ganjar', 'generasigotongroyong', 'ganjarpresiden', 'ganjaruntuksemua']",netral
+"['pendidikan', 'diangkat', 'mendalam', 'komprehensif', 'janji', 'kampanye']",netral
+"['', 'zakat', '', 'siaap', 'serius', 'nanya']",netral
+"['', 'imin', 'pkb', 'intervensi']",netral
+"['chotimah', 'daerah', 'miakin', 'menggratikan', 'biaya', 'pendidikan']",netral
+"['', 'semoga', 'kalo', 'njenengan', 'menang', 'presiden', 'membawa', 'indonesia']",netral
+"['', 'krr', '', 'onche', '', 'ogi', 'lasan', 'maaf', 'nangis']",netral
+"['', 'marm', 'jngn', 'dibalas']",netral
+"['', 'seruduk', 'sekarep', 'ndasmu', '']",netral
+"['', 'cocok']",netral
+"['', 'imin', 'pkb', 'ngeri', 'bgt', 'perpolitikan', 'skrg']",netral
+"['', 'terima', 'kasih']",netral
+"['wedoks', 'pasar', 'bs', 'jomblo', '', '', 'rumah']",netral
+"['', 'imin', 'pkb', 'istana', 'cawecawe', 'yak']",netral
+"['', 'semangat', 'yayangku', 'fitnah', 'amp', 'kabar', 'bohong', 'disebarkan', 'ttgmu']",netral
+"['ganjar', 'pranowo', 'berpasangan', 'prabowo', 'subianto', '', 'tunggu', '', 'ganjarpemimpinteladan', 'ganjarpranowo']",netral
+"['', 'capres', 'tolong', 'program', 'naikin', 'kecepatan', 'internet', '', 'indonesia', 'birokrasi', '', 'indonesia', 'tolong', 'dibenerin', 'pakkk', '', 'dikit', 'pke', 'aplikasi', 'pdhl', 'aplikasinya', '', '', 'memadai', 'plis', 'aplikasi', 'dipantau']",netral
+"['muktamar', 'sufi', 'internasional', '', 'jawa', 'bukti', 'kedekatan', 'ganjar', 'ulama', '', 'ganjarpemimpinteladan', 'ganjarpranowo']",netral
+"['', 'capres', 'merdeka', 'ganjar', 'pranowo', 'cakar', 'cakaran', 'cari', 'posisi']",netral
+"['ganjar', 'pranowo', 'sosok', 'pemimpin', 'rajin', 'sowan', '', 'ulama', 'menimba', 'nasihat', 'kepemimpinan', '', 'ganjarpemimpinteladan', 'ganjarpranowo']",netral
+"['ganjar', 'pranowo', 'dampingi', 'presiden', 'jokowi', 'menghadiri', 'perkumpulan', 'ulama', 'sufi', '', 'jawa', '', 'ganjarpemimpinteladan', 'ganjarpranowo']",netral
+"['', 'achmadi', '', '', '', 'wedoks', '', 'pake', 'duit', 'pribadi', 'gak', 'diganti']",netral
+"['', 'krr', '', 'onche', '', 'ogi', 'lasan', '', 'zeus', 'rusak', 'akhlak', 'anak', 'indonesia', 'capres', 'hobi', 'nonton', 'bokep']",netral
+"['atikoh', 'ganjar', 'serahkan', '', 'kursi', 'roda', '', 'anak', 'disabilitas', '', 'ganjarpemimpinteladan', 'ganjarpranowo']",netral
+"['', 'izinkan', '']",netral
+"['', 'achmadi', '', '', '', 'wedoks', 'kasian', 'caleg', '', '', 'baliho', 'mahal']",netral
+"['presiden', 'benarbenar', 'mengagumi', 'konsep', 'smkn', 'gratis', 'digagas', 'ganjar', 'pranowo', '', 'jawa', '', 'ganjarpemimpinteladan', 'ganjarpranowo']",positif
+"['', 'ganjar', 'pemimpin', 'visioner', 'kreatif']",netral
+"['apresiasi', 'konsep', 'smkn', 'gratis', '', 'jawa', 'presiden', 'jokowi', 'program', 'diperluas', 'nasional', '', 'ganjarpemimpinteladan', 'ganjarpranowo']",positif
+"['', 'ganjar', 'pranowo', 'pemimpin', 'dicintai', 'masyarakat']",netral
+"['', 'anakkolong', 'bang', 'berubahnya', '', 'derajat', 'bang']",netral
+"['momen', 'unik', '', 'kunjungan', 'presiden', 'jokowi', 'ganjar', 'pranowo', '', 'jawa', '', 'ganjarpemimpinteladan', 'ganjarpranowo']",netral
+"['', '', 'capres', '']",netral
+"['', 'ganjar', 'sosok', 'dinanti', 'indonesia']",netral
+"['', 'tibatiba', 'banget', 'tolong', 'ditemuin']",netral
+"['ganjar', 'pranowo', 'presiden', 'jokowi', 'meninjau', 'smkn', 'jateng', '', 'ganjarpemimpinteladan', 'ganjarpranowo']",netral
+"['', 'ganjar', 'pranowo', 'pilihan', 'indonesia']",netral
+"['', 'bikin', 'polling', 'aja', '', 'prabowo', '', 'airlangga', 'anies', '', 'cak', 'imin', 'sandiaga', 'uno', '', 'ahy', 'ganjar', '', 'pranowo']",netral
+"['', 'kerja', 'wartawan', 'sejawa', 'ganjar', '', 'top', 'banget', '', 'ganjarpemimpinteladan', 'ganjarpranowo']",positif
+"['', 'achmadi', '', '', '', 'lansung', 'ngamuk', 'kebo']",netral
+"['hattrick', 'ganjar', 'pranowo', 'terima', 'penghargaan', 'kur', 'award', '', 'ganjarpemimpinteladan', 'ganjarpranowo']",positif
+"['jokowi', 'tinjau', 'smk', 'gratis', 'bikinan', 'ganjar', 'inisiatif', 'bagus', 'jawa', '', 'ganjarpemimpinteladan', 'ganjarpranowo']",positif
+"['', 'achmadi', '', '', '', 'wedoks', '', 'gak', 'wan', 'ngibul', 'dipanggilnya']",netral
+"['mas', 'ganjar', 'pranowo', 'sosok', 'pemimpin', '', 'egois']",netral
+"['', 'achmadi', '', '', '', 'wedoks', '', 'aapkh', 'akn', 'panggil', 'dgn', 'sebutan', 'mas', 'anies', 'lgi', '']",netral
+"['penampilan', 'ganjar', 'pranowo', 'terima', 'penghargaan', 'newsmaker', 'indonesia', 'awards', '']",positif
+"['', 'tweet', 'ganjar', 'the', 'best', 'utk', 'jateng']",positif
+"['', 'jsp', 'gak', 'kuat', 'ngempet', 'mas']",netral
+"['', 'lahkok', 'solid', 'blablabla', 'ternyataawokwokwok', 'achmadi', '', '', '', 'wedoks']",positif
+"['', 'ganjar', 'main', '', 'majenang']",netral
+"['chotimah', 'tertarik', 'tuan', 'bokep']",netral
+"['', 'semangat', 'pakk']",netral
+"['andika', 'pasar', 'bs', '', 'ayah', 'jomblo', '']",netral
+"['hadiri', 'rakercab', 'iii', 'dpc', 'pdi', 'perjuangan', 'karawang']",netral
+"['pdip', 'karanganyar', 'ajak', 'kolaborasi', 'pendukung', 'ganjar', 'pranowo']",netral
+"['fakta', 'mayoritas', 'warga', 'jawa', 'puas', 'kinerja', 'ganjar', 'pranowo', 'surya', 'paloh', 'maguire', 'mantap', 'gus', 'cak', 'imin', 'demokrat', 'nasdem', 'sugeng', 'rahayu', 'bubar', 'dita', 'luffy', 'iri', 'bilang', 'pkb', 'koalisi', 'perubahan', 'agustus', 'zoro']",netral
+"['', 'terbaik', 'salah', 'prestasi', 'ganjar']",netral
+"['kartu', 'jateng', 'sejahtera', 'rintisan', 'ganjar', 'pranowo', 'solusi', 'atasi', 'kemiskinan', 'surya', 'paloh', 'maguire', 'mantap', 'gus', 'cak', 'imin', 'demokrat', 'nasdem', 'sugeng', 'rahayu', 'bubar', 'dita', 'luffy', 'iri', 'bilang', 'pkb', 'koalisi', 'perubahan', 'agustus', 'zoro']",netral
+"['whyyun', 'xpaix', 'inuk', 'iku']",netral
+"['', 'anakkolong', 'kalai', 'mengomong', 'tandanya', 'bang', '', 'khawatir', 'diizinkan', 'tuhan', 'memimpin', 'negeri']",netral
+"['', 'daftarnya', 'gimana']",netral
+"['', 'menjunjung', 'perbedaan', 'lawannya', 'politik', 'identitas', 'amp', 'mengkafirkan', 'agama', '', 'harapkan', 'calon', '', 'memecah', 'belah', 'amp', 'mengkafirkan', 'agama', 'sahabatganjar', 'ganjarpranowo', 'ganjaruntuksemua']",netral
+"['', 'diskusinya', 'nih', 'haiyaa']",netral
+"['mhd', 'selamat', 'cawapres', 'cieee']",netral
+"['may', 'wkwk']",netral
+"['bedanya', 'dgn', '', 'klw', 'ganjar', 'melepas', '', 'mahasiswa', 'magang', '', 'ceko', 'klw', '', 'menculik', 'mahasiswa', 'alama', 'kecoplosan', 'sahabatganjar', 'ganjarpranowo', 'ganjaruntuksemua']",netral
+"['', 'dukung', 'ganjar']",netral
+"['', 'terima', 'kasih', '']",netral
+"['', 'calon', 'presiden', '', '', 'ganjar', 'pranowo', 'amp', 'ridwan', 'kamil', '', 'pdip', '', '', '', '', 'ahy', 'amp', 'sandiaga', 'uno', '', 'demokrat', 'amp', 'ppp', '', '']",netral
+"['ganjar', 'pranowo', 'duet', 'aniescak', 'imin', 'gak', 'khawatir']",netral
+"['', 'nakula', 'anakkolong', 'ogi', 'lasan', 'chotimah', 'manfaatnya', 'buay', 'rakyat', 'patung', 'duitnya', '', 'bangun', 'patung', '', '', 'duit', 'pajak', '', 'hutang', '', 'tdk', 'ridlo']",netral
+"['', 'gua', 'sdh', 'info', '', 'agus']",netral
+"['', '', 'gak', 'membedakan', 'smw', 'krn', 'lahir']",netral
+"['bocahe', 'ganjar', 'iki', 'boss', 'senggol', 'ganjarpranowo', 'ganjarpresiden', 'srikandiganjarsumut', 'gardaperempuanmillenial', 'tuankuyarakyat', 'ganjarrebound', 'jatenghappyending', 'tetappilihganjar']",netral
+"['ganjar', 'pranowo', 'pemimpin', 'penuh', 'toleransi', 'ganjarcapres']",netral
+"['hmmmm', 'namanya', 'pengkhianat', 'yaaa', 'pengkhianat', 'demokrat', 'prabowo', 'dikhianati', 'karma', 'berlaku', '', 'percayalah', 'krn', 'tuhan', 'suka', 'manusia', 'berbohong', '', 'menguatkan', 'keyakinanku', '']",netral
+"['mendukung', 'ganjar', 'pranowo', 'ganjarcapres']",netral
+"['', 'semangat', 'bang', 'guntur', 'romli', 'mendoakanmu', 'berjuang', 'prinsip', 'prinsip', 'kehidupan', '']",netral
+"['', 'emang', 'mantap', 'ganjar', 'pranowo', 'lanjutkan', 'karya', 'karya', 'nyata', 'indonesia', 'majuu']",netral
+"['', '', 'paham', 'dengn', 'track', 'record', '', '', 'akn', 'menghukum', 'prabowo']",netral
+"['mengharapkan', 'pemilu', '', 'pertarungan', 'gagasan', 'lmnd', 'mendorong', 'isu', 'pendidikan', 'isu', 'strategis', 'momentum', 'pemilu', '']",netral
+"['', 'gimana']",netral
+"['', 'terbukti', 'ganjar', 'pranowo', '']",netral
+"['ganjar', 'pranowo', 'hadiri', 'silaturahmi', 'dgn', 'pgks', '', 'ganjar', 'sosok', 'pemimpin', '', 'memiliki', 'nilai', 'kebhinekaan', 'dkung', 'ganjar', 'pranowo', 'sbg', 'presiden', '', '', '', 'ganjarbawakemajuan', 'ganjarfor', 'dukungganjar']",netral
+"['ketua', 'majelis', 'pembina', 'daerah', 'pramuka', 'jawa', 'desa', 'nyalembeng', 'pemalang', 'rabu', '', 'via', 'jtg']",netral
+"['', 'bginipun', 'dibanggakan']",netral
+"['', 'chotimah', 'klo', 'putusan', '', 'cawapres', 'minimal', 'umur', '', 'thn', '', '', 'prabowo', '', 'gibran', '', 'anies', '', 'cak', 'imin', '', 'ganjar', '', 'sandiridwan', 'kamil']",netral
+"['', 'imin', 'pkb', '', 'berkhianat', '', 'koalisi', '', 'nyapres', '', 'disalahkan', 'presiden', 'wkwkwkw']",netral
+"['dkung', 'ganjar', 'pranowo', 'sbg', 'presiden', '', '', '', 'ganjarbawakemajuan', 'ganjarfor', 'dukungganjar']",netral
+"['', 'jokowi', 'sdh', 'terangan', 'meng', 'endorse', 'ganjar', 'pranowo', 'sdh', 'nama', 'putra', 'menantu', '', 'sdh', 'terangan', 'mendukung', 'ganjar', 'pranowo']",netral
+"['', 'ganjar', 'pranowo', 'presiden', 'pilihanku']",netral
+"['ganjar', 'pranowo', 'sosok', 'capres', '', 'merakyat', 'ganjar', 'the', 'next', 'presiden', '', 'ganjarbawakemajuan', 'ganjarfor', 'dukungganjar']",netral
+"['ivan', 'perjuangan', 'semoga']",netral
+"['', 'cawapres']",netral
+"['', 'kagum', 'ganjar', 'teruskan', 'perjuangan', '', '', 'pakk']",netral
+"['ganjar', 'pranowo', 'didukung', 'kekuatan', 'oligarki', 'didukung', 'rakyat', '', 'ganjarbawakemajuan', 'ganjarfor', 'dukungganjar']",netral
+"['', 'semangat', 'tujuan', 'indonesia', 'negara', 'maju']",netral
+"['chotimah', 'chance', 'menang', 'tinggal', '', 'endorse', '', 'menang', '', 'prabowo', 'menarik', '', 'sampe', 'cak', 'imin', 'pindah', 'cawapresnya', 'anies']",positif
+"['angel', '', 'ganjar', 'sdh', 'ketemuan', 'mbk', 'puan']",netral
+"['', 'tweet', 'gaspoll', 'dukung', 'ganjar', 'pranowo', '', 'penerus', 'jokowi']",netral
+"['', 'perjuangan', 'perindo', 'hanura', 'bener', 'cak', 'imin', 'wakil', 'anis', 'pkb', 'kiamat', 'hancur']",netral
+"['chotimah', 'pendidikan', '', 'tdk', 'gratis', 'kwalitasnya']",positif
+"['', 'baguslah', 'nyalon', '', 'nepal', 'aja', 'hhh']",netral
+"['dusta', '', 'engkau', 'nikmati', '', 'andalanku', 'anakkolong', 'dharmi', 'sajak', 'dharmi', 'paktelur', 'rakyatpilihganjar']",netral
+"['ganjar', 'trend', 'tuanku', '', 'rakyat', 'jabatan', 'mandat', 'ganjarpranowo', 'ganjar', 'generasigotongroyong', 'ganjarpresiden', 'ganjaruntuksemua']",netral
+"['', 'semangat', 'gus', 'romli']",netral
+"['', 'chotimah', 'klo', 'ahy', 'gak', '', 'cawapres']",netral
+['cantik'],netral
+"['', 'rebound', 'berlanjut', 'fenomena', 'ganjar', 'rebound', 'berlanjut', 'hasil', 'survei', 'terbaru', 'lembaga', 'survei', 'indonesia', 'lsi', 'dirilis', 'daring']",netral
+"['', 'official', 'terbayang', 'reaktif', 'berdebat', 'dgn', 'mahasiswa']",netral
+"['ganjar', 'pranowo', 'didukung', 'rakyat', 'ganjarcapres']",netral
+"['', '', 'tag', 'beneran']",netral
+"['ganjar', 'pranowo', 'pranowo', 'pemimpin', 'tangguh', 'disukai', 'masyarakat']",netral
+"['', 'krr', '', 'onche', '', 'ogi', 'lasan', 'anak', 'smk', 'sih', 'iya', 'mahasiswa', 'langsung', 'keok']",netral
+"['ganjar', 'pranowo', 'pranowo', 'pemimpin', 'berani', 'disukai', 'jokowi']",netral
+"['jokowi', 'dukung', 'ganjar', 'pranowo']",netral
+"['jokowi', 'insyaallah', 'ganjar', 'pranowo', 'indonesia', 'negara', 'maju']",netral
+"['lanjutkan', 'kinerja', '', 'ganjar', 'pranowo', 'the', 'best']",positif
+"['', 'garwo', 'ganjar', 'pranowo']",netral
+"['pakof', '', 'tag']",netral
+"['chotimah', 'ogi', '', 'humble', 'sma', 'cilik', '', 'menolak', 'paham', 'radikal', 'san', 'klompok', 'intoleran', '', 'cerdas', 'dlm', 'mengeksekusi', 'ide', 'gagasan', '', 'ganteng', '', 'murah', 'senyum', '', 'nyambung', 'dgn', 'gol', 'gen', 'and', 'milenial', '', 'kesantunan', '', 'senang', 'olahraga', '', 'bertoleransi', 'tepo', 'sliro']",netral
+"['', 'hasibuan', '', 'gerah', 'mah', 'tetep']",netral
+"['heboh', 'duet', 'aniescak', 'imin']",netral
+"['', 'chotimah', 'ogi', '', 'humble', 'sma', 'cilik', '', 'menolak', 'paham', 'radikal', 'san', 'klompok', 'intoleran', '', 'cerdas', 'dlm', 'mengeksekusi', 'ide', 'gagasan', '', 'ganteng', '', 'murah', 'senyum', '', 'nyambung', 'dgn', 'gol', 'gen', 'and', 'milenial', '', 'kesantunan', '', 'senang', 'olahraga', '', 'bertoleransi', 'tepo', 'sliro']",netral
+"['', 'tali', 'asih', 'dananya', '', '', 'adik', 'dapet', 'emas', '', 'hoki']",netral
+"['ganjar', 'pranowo', 'benarbenar', 'mewakili', 'rakyat', '', 'cma', 'ganjar', '', 'pling', 'menggantikan', 'jokowi', 'ganjarbawakemajuan', 'ganjarfor', 'dukungganjar', 'ganjarpilihanrakyat']",netral
+"['', 'krr', '', 'onche', '', 'ogi', 'lasan', 'pakai', 'jilbab', 'emak', 'pakai', 'seragam']",netral
+"['ima', '', 'prabs', 'gengsi', 'berkabung', '', 'pendukung', 'ganjar', 'berkurang', '', 'prabs', 'cawapres', 'nya', '', 'mendingan', '', 'prabs', 'bergabung', 'ama', 'pks', 'demokrat', 'aja']",netral
+"['dukungan', 'presiden', 'kuat', 'ratusan', 'tim', 'pemenangan', 'prabowo', '', 'jawa', 'barat']",netral
+"['ganjar', 'pranowo']",netral
+"['', '', 'elahhhh', 'makhluk', 'sampah', 'kelakuan', 'warga', 'napa', 'gubernurnya', '', 'elo', 'salahin', 'oon', 'luh', '', '']",netral
+"['back', 'puan', '', 'ahy']",netral
+"['', 'baca', '', 'runyam', 'selamat', '', 'mengungguli', '', 'capres', '', 'putaran', 'mohon', 'bersabar']",netral
+"['', 'bantu', 'tag']",netral
+"['', 'ganjar', 'pranowo']",netral
+"['definisi', 'kepemimpinan', 'strategis', 'terbaik', 'sumber', 'daya', 'miliki', 'menjalankan', 'strategi', 'efisien']",netral
+"['', 'lagu', 'lagu', '', 'perubahan']",netral
+"['', 'id', 'perjuangan', 'nek', 'ora', 'wani', '', 'garik', 'ngomong', 'ojo', 'kakean', 'alesan', 'wedi', 'ketok', 'kapasitas', 'keilmuane', '', 'piye']",negatif
+"['', '', 'foto', 'nampak', 'ibuibu', 'ngikut', 'bapakbapak', '', 'aktualnya', 'bapakbapak', 'ngikut', 'ibuibu']",netral
+"['chotimah', 'paspampres', 'kerja', 'keras', 'hehee']",netral
+"['', 'chotimah', 'langkah', 'cerdas', 'utk', 'meminimalisir', 'konflik', 'pasangan', 'capres', 'cawapres', '', 'prabowoerik', '', 'anies', '', 'cak', 'imin', '', 'ganjar', '', 'ahy']",netral
+"['', '', 'nkri', 'dipimpin', 'presiden', 'bugar']",netral
+"['negara', 'favorit', 'ning', 'atikoh', 'sinta', 'perbincangan', 'asyik', 'atikoh', 'ttng', 'cinta', 'keluarga', 'hobi', 'dll', 'ashanty', '', 'link']",netral
+"['', 'ganjar', 'ganjar']",netral
+"['ganjar', 'pranowo', 'presiden', '', 'pilihan', 'rakyat']",netral
+"['', 'ganjar', 'terbaik']",netral
+"['', 'ketulusan', 'ganjar', 'rakyat', '', 'sungguh', 'mulia', 'kawal', '']",netral
+"['', 'morafia', 'adv', 'vot', 'ynwa', 'emil', 'eko', 'mangat', 'met', 'maljum', 'bang']",netral
+"['', 'hrs', 'start', '', 'bagus', '', 'mjd', 'menpora', '', 'kabinet', 'ganjarprabowo', 'gak', 'start', '', 'banget', 'spt', 'menpora', 'malaysia', 'namanya', 'lupa', 'skrg', 'sdh', 'mjd', 'politisi', 'matang']",netral
+"['', 'tweet', 'tetapp', 'ganjarr', 'presiden', '']",netral
+"['', 'chotimah', 'sekolah', 'negri', 'kena', 'spp']",netral
+"['', 'silahkan', 'demokrat', 'kalo', 'gabung', 'pdip', 'mendukung', 'mas', 'ganjar', 'pranowo']",netral
+"['ganjar', 'pranowo', 'konteks', 'bonus', 'demografi', 'mengirimkan', 'tenaga', 'kerja', 'pilihan', 'dita', 'iphone', '', 'zoro', 'pdiperjuangan']",positif
+"['pamit', '', 'rapat', 'paripurna']",netral
+"['', 'hayoooo', 'hajar', 'pendukung', 'pendukung', 'presiden', 'apeswis', 'direwangi', 'gebukan', 'sing', 'dadi', 'liyane']",netral
+"['chotimah', 'budaya', 'santun', 'jokowi', 'munafikun', 'bicara', '', 'kelakuannya', 'santunin', 'moral', '', 'joko']",netral
+"['ganjarpranowo', 'teratas', 'ungguli', 'prabowo', 'pilres']",netral
+"['', 'masanya', 'habis']",netral
+"['', 'ganjar', 'harapan', 'masyarakat', 'next', 'presiden', '']",netral
+"['', 'melulu', 'pagi', '', 'malam', 'bosan', 'bete', 'peminat']",netral
+"['kaeadilan', 'sosial', 'bahi', 'rakyat', 'indonesia']",netral
+"['', 'kalo', 'rakyat']",netral
+"['dukung', 'ganjar', 'pranowo', 'for', 'presiden', '', 'capresganjar']",netral
+"['', 'chotimah', 'sih', 'pertemuan', 'puan', 'ahy', 'salah', 'satunya', 'membahas', 'sedari', 'surya', 'paloh', 'serius', 'memasangkan', 'ahy', 'anies']",netral
+"['chotimah', 'mimpi', 'siang']",netral
+"['', 'silahkan', 'pendukung', 'dukung', 'pilihan', 'ampe', 'modiyar', 'gua', 'sih', 'aja', 'santai', 'pilihan', '', 'hati']",netral
+"['', '', 'perjuangan', 'sdh', '', 'sidang', 'militer', 'sdh', '', 'pecat', '', 'tni', 'trs', 'hsl', 'investigasi', 'ilang', 'jaman', 'sby', 'kemana']",netral
+"['orang', 'nomer', '', 'negri', 'kagum']",netral
+"['', 'chotimah', 'program', 'sekolah', 'gratis', 'sdsmp', 'sby']",positif
+"['ganjar', 'pranowo', 'eklektabilitas', 'meningkat', 'ganjarcapres']",netral
+"['ganjar', 'pranowo', 'rakyat', 'dicintai', 'rakyat', 'dukung', 'ganjar', 'pranowo', 'presiden', '', 'ganjarcapres', 'ganjarpranowo']",netral
+"['ganjar', 'pranowo', 'presiden', '', '', 'dukung', 'ganjar', 'pilpres', '', 'ganjarpranowo', 'ganjarpranowofor', 'ganjarcapres']",netral
+"['pinang', '', 'belah', 'karakter']",netral
+"['relawan', 'amunisi', 'anis', 'muhaimin', 'beraksi', 'hrt', 'anismuhaimin', 'anismuhaimin', 'anismuhaimin', 'anismuhaimin', 'anismuhaimin']",netral
+"['simon', 'waras', '', 'bls', 'dendam', '', 'bgusmungkin', '', 'ganggu', '', '', 'diduga', 'musuh', '', 'sby', 'focus', 'urus', 'partai', '', 'naikan', 'elektabilitas']",netral
+"['', 'mantull', 'ganjar']",netral
+"['pemimpin', '', '', 'golongan', 'sahabatganjar', 'ganjarpranowo', 'ganjarpresiden']",netral
+"['', 'hrt', '', '', '', 'pks', 'demokrat', 'nonton', 'nampung', 'suara', 'pemilih', 'oposisi', 'berkelahi', 'partai', 'koalisi', 'penguasa']",netral
+"['pegl', 'capres', '', '', 'calon', 'ganjar', 'pranowo', 'anis', '', 'abuabu']",netral
+"['', 'bali', 'id', 'adisusanto', 'nat', 'itukan', 'hasil', 'rembuk', 'rakyat']",netral
+"['', 'eaaa', 'yamg', 'sebelah', 'jomblo', 'akutt']",netral
+"['', 'mantap']",netral
